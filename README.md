@@ -20,4 +20,4 @@
 </p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omkardataanalystpractitioner&show_icons=true&locale=en&layout=compact" alt="omkardataanalystpractitioner" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=OmkarLamkhade&show_icons=true&locale=en&layout=compact" alt="omkardataanalystpractitioner" /></p>
